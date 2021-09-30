@@ -17,35 +17,14 @@ project_id = "rheodigital-client-portal"
 secret_id = "portal-db"
 secret_client = secretmanager.SecretManagerServiceClient()
 secret_client.access_secret_version(name=f'projects/{project_id}/secrets/{secret_id}/versions/1')
-
-# GCP project in which secrets are stored in Secret Manager.
-#project_id = "rheo-client-portal"
-# ID of the secret to create.
-#secret_id = "database_uri"
-# Create the Secret Manager client.
-#client = secretmanager.SecretManagerServiceClient()
 response = secret_client.access_secret_version(name=f'projects/{project_id}/secrets/{secret_id}/versions/latest')
 print(response.name)
-# Print the secret payload.
-#
-# WARNING: Do not print the secret in a production environment - this
-# snippet is showing how to accesds the secret material.
-#payload = response.payload.data.decode("UTF-8")
-# print("Plaintext: {}".format(payload))
-# database_uri = response.payload.data.decode("UTF-8")
-
 database_uri = os.environ['MONGO_URI']
 client = MongoClient(database_uri)
 collection = client.users
 db = collection.users
 
-userlist = [
-    {
-        "_id": 123,
-        "username": "Avishek",
-        "password": "abcd"
-    }
-]
+userlist = list(db.find())
 
 
 class Check(Resource):
