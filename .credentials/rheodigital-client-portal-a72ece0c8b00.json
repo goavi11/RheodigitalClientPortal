@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rheodigital-client-portal",
+  "private_key_id": "a72ece0c8b0093962d49e061ef6391fc5e80fcc9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDEdLUSzVb65mg0\nzGFh6qaVrQnE3fqLCxIeaJjr7h6n5bn/mxq4PoYV0P0fJ6kLAG7EpMB79XHTSAEP\n/h4y/GxTYfqyV4NA+zENaFAiDxbGdaNw/+R07TzhaozZipVtBu6hQizhuWLzwXNa\n50g3oVLDYDJ6JF1tmh2F5QDCtoIl2tmZCi7K4D6Da8ObzZnHtwPbCdgoAMyLrJ8/\nAnt2didym30azpLrDIPOZ2Tj4gtkXO8jqrxOMBa4lQFempYBpYDgWFr4QLpvUBj0\nrnDAjPkjiEf7kQqaxNSv/FnCkupaT3V7GjUA1UddqoPLQsbb/hNmqBel5ybfR4lD\n8tk0JCrNAgMBAAECggEADkQHThk5IrkOgh8BR1H5zM6m8fPImMYyB6FC0YcWFM0a\nx5PkydJIfFcTumpv3Qun/4GTNK0rGdOVuCqU2ND5sMhhowe10UcsVbPodcCwv7KV\nLsR2O4Nqs1fAaJ+moCcrtuwOREnpBJhcnxJCbT+6udNHdxUi762MTUfG2VzVcJgm\nFLGrlre3Lp0TIX7Il9WobceiyxBNA7h7XhVMP17gH/KAlZMnIaU5wiD5LJdTzr5F\nk7hFeQC7zsM4synTgkiy2XW9iRFP0J3KZejNoiXCQJcPkOrmy0cre1awJsK+/VLZ\n7kwMJuQezYdggRw2RszDFX/psycX5hgbQmmn+gAEZQKBgQD2MoEq6fse5IzIg62h\n4PCqliBFaVUzWuY3Ccmk5unIIgdA8mncA9ozd+4ySzBUvob4UFkCJ6s1ZHDmJxMe\n4LCD3losW5xMwVzgTTzJ+5INZfq5SXdNKkMMjIIjLvK4c2fjuYf1v6w5CbyPyfu4\nVi8dpsIXKCkULICU6+Nate79CwKBgQDMRy/5C5cTVo9GDP6O6x5W7ruadA37MytD\ni2qGX5zAoq/bHITzwO4+g2elF0ulpT1j+Lah0kS3LqVYd1pZzkQqBhpsbh6m6z3H\nAYk8vxh8Q1GfsgWHh4g/9iy5pUZ7YROcqwiDadAnJSyDLN1wzTB+Ga3HFzl4kmTD\neODxQGZuhwKBgQCwk3CI8uAlPA6tEaRK4iY6cwoaPn3ZI2zSNLbnCqbJ334MWtEJ\n98lb+LxiXgMABNaQ6i+sl/73gF5o88WG8+gl7CgIgHwNoPGX/k2HIGOUMHwuwD5M\nne8Q5QXBbj6vhDYS4lJdM2e2UQFor5lWkJmiTqQOL8OmsHRYWwbpXGtYGQKBgDmS\nHn0LvSogDQTrCJryvHw3j/u5lW8kPp8snXr9W0oXD4SrBvVDfGF12zH13MX0Sdbw\n81er0N3ncYX7LSV+Mku9qJjCeDUGu0RotGrAWIA84LYnD9PgaI/OK1Cuuaxv8X0H\n3sBag+VkXqUhcc8mpPIE/qrLatEGQQut94dGZRflAoGBAJ1mFzKK7a4z/4TKwWFE\n5I6wO+g39JffTXYTWZ4ImiFG4zbrY1114qjhkf5SnNYie76W0m64tpBTw+pt2VDI\nm1zXm6MbJMUXOr7um6K8eC6bY9h5sfUBH3d7sKg36SarmBTaBok4hZmp/PynijQm\nK6Kfuwz0Rbp+gumJa5ssewcF\n-----END PRIVATE KEY-----\n",
+  "client_email": "rheodigital-client-portal@appspot.gserviceaccount.com",
+  "client_id": "103326346730084152977",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rheodigital-client-portal%40appspot.gserviceaccount.com"
+}
